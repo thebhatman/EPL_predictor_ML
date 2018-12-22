@@ -11,3 +11,8 @@ A predictor  which uses Machine Learning algorithms to predict the champion of E
 **Predictor match** - It predicts the winner of each match with the consideration that we have the present match stats with us . This is just a beginner level model for us to understand how the model is performing .
 
 **Predictor Winner** - This the the main predictor , which predicts the winner of the current season without the present season stats.
+
+So here's our prediction of the final standings of the Premier League Season 2017-18!!!
+![alt text](https://github.com/Snehal-Reddy/EPL_predictor_ML/master/data_season_wise/League.png)
+
+Even our model predicts the universal truth : Arsenal finish fourth!  
